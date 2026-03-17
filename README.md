@@ -1,8 +1,8 @@
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
-<H3>NAME: EZHIL SREE J</H3>
-<H3>REGISTER NO.: 212223230056</H3>
+<H3>NAME: RUDESH KANNA R</H3>
+<H3>REGISTER NO.: 212223233002</H3>
 <H3>EX. NO.6</H3>
-<H3>DATE:01-11-2025</H3>
+<H3>DATE:</H3>
 <H3>Aim:</H3>  To construct a  Multi-Layer Perceptron to predict heart attack using Python
 <H3>Algorithm:</H3>
 Step 1:Import the required libraries: numpy, pandas, MLPClassifier, train_test_split, StandardScaler, accuracy_score, and matplotlib.pyplot.<BR>
